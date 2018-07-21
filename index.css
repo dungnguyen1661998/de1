@@ -1,1 +1,100 @@
-.container-fluid{height:auto}
+.container-fluid {
+  height: auto;
+}
+.container-fluid dl .dln {
+  height: 1600px;
+  background-image: url("lib/dungnen.jpg");
+  background-size: 100% 100%;
+  position: relative;
+}
+.container-fluid dl .dln .dl1 .dlc1 {
+  height: 350px;
+  background: -webkit-gradient(linear, left top, left bottom, from(#09f), to(#ccf));
+  background: -webkit-linear-gradient(#09f, #ccf);
+  background: -o-linear-gradient(#09f, #ccf);
+  background: linear-gradient(#09f, #ccf);
+  opacity: 0.5;
+}
+.container-fluid dl .dln .dl1 .dlc2 {
+  height: 350px;
+  text-align: center;
+  position: absolute;
+  top: 8%;
+}
+.container-fluid dl .dln .dl1 .dlc3 {
+  height: 1250px;
+  background: -webkit-gradient(linear, left top, left bottom, from(#f6f), to(#63f));
+  background: -webkit-linear-gradient(#f6f, #63f);
+  background: -o-linear-gradient(#f6f, #63f);
+  background: linear-gradient(#f6f, #63f);
+  opacity: 0.5;
+}
+.container-fluid dl .dln .dl1 .dlc4 {
+  height: 250px;
+  text-align: center;
+  position: absolute;
+  top: 25%;
+}
+.container-fluid dl .dln .dl1 .dlc5 {
+  height: 600px;
+  background-color: #ffc;
+  position: absolute;
+  top: 40%;
+}
+.container-fluid dl .dln .dl1 .dlc5 .bdlc5 {
+  height: 100%;
+  background-color: #fff;
+}
+.container-fluid dl .dln .dl1 .dlc5 .bdlc5 .dlc51 {
+  margin-top: 3%;
+  height: 8%;
+  text-align: center;
+}
+.container-fluid dl .dln .dl1 .dlc5 .bdlc5 .dlc53 {
+  height: 84%;
+}
+.container-fluid dl .dln .dl1 .dlc5 .bdlc5 .dlc53 .dlc531 {
+  height: 500px;
+}
+.container-fluid dl .dln .dl1 .dlc5 .bdlc5 .dlc53 .dlc531 .slide {
+  height: 100%;
+}
+.container-fluid dl .dln .dl1 .dlc5 .bdlc5 .dlc53 .dlc531 .slide .dlc52 {
+  height: 500px;
+  margin: 0 auto;
+}
+.container-fluid dl .dln .dl1 .dlc5 .bdlc5 .dlc53 .dlc531 .slide .dlc52 .bdlc52 {
+  height: 100%;
+}
+.container-fluid dl .dln .dl1 .dlc5 .bdlc5 .dlc53 .dlc531 .slide .dlc52 .bdlc52 .dlc521 {
+  height: 100%;
+  text-align: center;
+  padding-top: 3%;
+}
+.container-fluid dl .dln .dl1 .dlc6 {
+  height: 350px;
+  position: absolute;
+  top: 100%;
+}
+.container-fluid dl .dln .dl1 .dlc6 .dlc61 {
+  text-align: center;
+  height: 350px;
+  padding-left: 5%;
+}
+.container-fluid dl .dln .dl1 .dlc6 .dlc62 {
+  text-align: center;
+  height: 350px;
+  padding-left: 5%;
+  padding-right: 10%;
+}
+.container-fluid .dung .cdung {
+  background-color: #333;
+  height: 350px;
+}
+.container-fluid .dung .cdung .brow .bcol {
+  height: 350px;
+  margin: 0 auto;
+}
+.container-fluid .dung .cdung .brow .bcol .srow .c1 {
+  height: 350px;
+}
